@@ -6,6 +6,6 @@ Pillow==5.2.0
 pyquaternion==0.9.5
 scikit-learn==0.19.2
 tqdm==4.25.0
-scipy==1.1.0
+scipy==1.10.0
 cachetools==3.1.0
 Shapely==1.6.4.post2
